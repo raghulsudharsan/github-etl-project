@@ -4,3 +4,12 @@ __pycache__/
 .env
 airflow_ec2_key.pem
 .DS_Store
+*.generated
+*.pem
+EOF
+airflow.cfg
+airflow.db
+airflow.db-shm
+airflow.db-wal
+logs/
+
